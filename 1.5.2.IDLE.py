@@ -4,7 +4,7 @@ Type "copyright", "credits" or "license()" for more information.
 >>> b=1896
 >>> print `a`+b
 SyntaxError: Missing parentheses in call to 'print'
->>> #python已经弃用使用此方法拼接两个对象
+>>> #python3已经弃用使用此方法拼接两个对象
 >>> print str(a)+b
 SyntaxError: invalid syntax
 >>> str(a)
